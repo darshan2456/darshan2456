@@ -1,5 +1,7 @@
 Darshan Parekh | C Programming | Systems Programming | Web Development | Cybersecurity
 
+Social Summer of Code (SSOC) S5 Project Admin for 'C_DSA_interactive_suite'
+
 I am a BSc Computer Science student from Mithibai College, Mumbai with a strong interest in systems programming and web-development.
 
 I have built a DSA library in C which is an interactive terminal based application written in C. It is intended to be used for educational purpose and built completely from scratch with manual memory management. It is portable, which means you can build my project from source in either Windows/Linux/MacOS. I have added a Github Actions CI pipeline which triggers on every push to 'main' and runs the entire test suite and then the entire suite under 'Valgrind', so there is no chance of memory leaks going to repository unchecked. You can see the algorithms perform in real-time according to your inputs, specially the non-recursive sorting algorithms. Where you can see the state of array changing with each pass. The goal was to understand Data Structures and not just use them. So I built them instead of using abstractions.
