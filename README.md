@@ -1,8 +1,9 @@
-Darshan Parekh | C Programming | Systems Programming | Web Development
+# Darshan Parekh <br>
+<strong>C Programming | Systems Programming | Web Development</strong>
 
-<strong>Social Summer of Code</strong> (SSOC) S5 Project Admin for <strong>C_DSA_interactive_suite</strong>
+<ins>***Social Summer of Code***</ins> (SSOC) S5 Project Admin for <strong>C_DSA_interactive_suite</strong>
 
-I am a BSc Computer Science student from <strong> Mithibai College </strong>, Mumbai with a strong interest in systems programming and web-development.
+I am a BSc Computer Science student from <ins>***Mithibai College***</ins>, Mumbai with a strong interest in systems programming and web-development.
 
 
 # My Github Stats
@@ -24,7 +25,7 @@ Apart from that I have built a URL manager application which is a full-stack Fla
 
 If you wish to, feel free to open Issues, make PRs to any of my repositories, I will make sure to attend to them at the earnest.
 
-Contact:
+<strong>Contact</strong>:
 
-Linkedin - https://www.linkedin.com/in/darshan-parekh-777699351/
+Linkedin - https://www.linkedin.com/in/darshan-parekh-777699351/ <br>
 Gmail - darshanmparekh245624@gmail.com
