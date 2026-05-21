@@ -1,9 +1,9 @@
 # Darshan Parekh <br>
 <strong>C Programming | Systems Programming | Web Development</strong>
 
-<ins>***Social Summer of Code***</ins> (SSOC) S5 Project Admin for <strong>C_DSA_interactive_suite</strong>
+[<ins>***Social Summer of Code***</ins>](https://www.socialsummerofcode.com/) (**SSOC**) S5 Project Admin for <strong>C_DSA_interactive_suite</strong>
 
-I am a BSc Computer Science student from <ins>***Mithibai College***</ins>, Mumbai with a strong interest in systems programming and web-development.
+I am a **BSc Computer Science** student from [<ins>***Mithibai College***</ins>](https://mithibai.ac.in/), Mumbai with a strong interest in systems programming and web-development.
 
 
 # My Github Stats
@@ -15,7 +15,7 @@ I am a BSc Computer Science student from <ins>***Mithibai College***</ins>, Mumb
 
 **C_DSA_interactive_suite**
 
-I have built a DSA library in C which is an interactive terminal based application written in C. It is intended to be used for educational purpose and built completely from scratch with manual memory management. It is portable, which means you can build my project from source in either Windows/Linux/MacOS. I have added a Github Actions CI pipeline which triggers on every push to 'main' and runs the entire test suite and then the entire suite under 'Valgrind', so there is no chance of memory leaks going to repository unchecked. You can see the algorithms perform in real-time according to your inputs, specially the non-recursive sorting algorithms. Where you can see the state of array changing with each pass. The goal was to understand Data Structures and not just use them. So I built them instead of using abstractions.
+I have built a DSA library in C which is an interactive terminal based application written in C. It is intended to be used for educational purpose and built completely from scratch with manual memory management. It is portable, which means you can build my project from source in either Windows/Linux/MacOS. I have added a Github Actions CI pipeline which triggers on every push to 'main' and runs the entire test suite and then runs the entire test suite under 'Valgrind', so there is no chance of memory leaks going to repository unchecked. You can see the algorithms perform in real-time according to your inputs, specially the non-recursive sorting algorithms. Where you can see the state of array changing with each pass. The goal was to understand Data Structures and not just use them. So I built them instead of using abstractions.
 
 **Url Manager**
 
