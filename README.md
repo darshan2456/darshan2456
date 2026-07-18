@@ -1,7 +1,7 @@
 # Darshan Parekh <br>
 <strong>C Programming | Systems Programming | Open Source | Web Development</strong>
 
-[<ins>***Social Summer of Code***</ins>](https://www.socialsummerofcode.com/) (**SSOC**) S5 Project Admin for <ins>[***C_DSA_interactive_suite***](https://github.com/darshan2456/C_DSA_interactive_suite)</ins>
+[<ins>***Social Summer of Code***</ins>](https://portal.socialsummerofcode.com/) (**SSOC**) S5 Project Admin for <ins>[***C_DSA_interactive_suite***](https://github.com/darshan2456/C_DSA_interactive_suite)</ins>
 
 I am a **BSc Computer Science** student from **<ins>Mithibai College</ins>**, Mumbai with a strong interest in systems programming and web-development.
 
