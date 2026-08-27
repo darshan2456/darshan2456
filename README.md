@@ -20,5 +20,5 @@ If you wish to, feel free to open Issues, make PRs to any of my projects, I will
 <strong>Contact</strong>:
 
 Linkedin - https://www.linkedin.com/in/darshan-parekh-777699351/ <br>
-Discord username - emoboi_2006
+Discord username - emoboi_2006 <br>
 Gmail - darshanmparekh245624@gmail.com
