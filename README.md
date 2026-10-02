@@ -3,8 +3,7 @@
 
 [<ins>***Social Summer of Code***</ins>](https://portal.socialsummerofcode.com/) (**SSOC**) S5 Project Admin for <ins>[***C_DSA_interactive_suite***](https://github.com/darshan2456/C_DSA_interactive_suite)</ins>
 
-I am a **BSc Computer Science** student from **<ins>Mithibai College</ins>**, Mumbai with a strong interest in systems programming and web-development.
-
+I am a **BSc Computer Science** student from **<ins>Mithibai College</ins>**, Mumbai with a strong interest in low-level programming and open-source culture.
 
 # My Github Stats
 
