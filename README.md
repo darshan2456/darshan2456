@@ -1,5 +1,5 @@
 # Darshan Parekh <br>
-<strong>C Programming | Systems Programming | Open Source </strong>
+<strong>C/C++ Programming | Systems Programming | Open Source </strong>
 
 [<ins>***Social Summer of Code***</ins>](https://portal.socialsummerofcode.com/) (**SSOC**) S5 Project Admin for <ins>[***C_DSA_interactive_suite***](https://github.com/darshan2456/C_DSA_interactive_suite)</ins>
 
